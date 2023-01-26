@@ -32,7 +32,7 @@ a:hover {
 
 header {
     height: calc(100vh - 150px);
-    background: no-repeat center/cover url('/imagens/monteFuji.jpg');
+    background: no-repeat center/cover url('./imagens/monteFuji.jpg');
 
 }
 
